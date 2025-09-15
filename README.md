@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📝 Java ToDo App with CSV Storage
 
 A simple **ToDo application** written in **Java** that stores tasks in a CSV file.  
@@ -55,3 +56,7 @@ This project was created to practice **Object-Oriented Programming (OOP)** and b
 
 ![Konsolenmenü](screenshots/Menu_App.png)
 
+=======
+# TodoApp
+Simple Java ToDo App with CSV storage
+>>>>>>> e79df3bbc296da40078a14e98c3f65471e3854cf
